@@ -1,10 +1,8 @@
-    knitr::opts_chunk$set(echo = TRUE)
-
 This is for assignment 1 of Coursera Reproducible Research
 
     library(ggplot2)
 
-    ## Warning: package 'ggplot2' was built under R version 3.1.3
+    ## Warning: package 'ggplot2' was built under R version 3.2.5
 
 Read data after extraction
 

@@ -2,7 +2,7 @@
 title: "PA1_template"
 author: "Qiao Xingyu"
 date: "23 January 2017"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
